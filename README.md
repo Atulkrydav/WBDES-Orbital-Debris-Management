@@ -1,5 +1,5 @@
 # WBDES-Orbital-Debris-Management
-WBDES uses controlled water vapor clouds to artificially increase drag on orbital debris, slowing it down and enabling natural re-entry without adding new space pollution.
+WBDES(Water Based Drag Enhancement System) uses controlled water vapor clouds to artificially increase drag on orbital debris, slowing it down and enabling natural re-entry without adding new space pollution.
 
 # Problem Statement
 
