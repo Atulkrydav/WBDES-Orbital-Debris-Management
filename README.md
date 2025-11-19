@@ -7,13 +7,13 @@ Earth’s orbit is becoming increasingly congested with debris—from old satell
 These objects travel at ~7–8 km/s, making them dangerous to active satellites and future space missions.
 Current debris-removal methods (lasers, nets, harpoons, tugs) face challenges such as:
 
-High mission costs
+-High mission costs
 
-Complex capture mechanisms
+-Complex capture mechanisms
 
-Risk of fragmentation
+-Risk of fragmentation
 
-Limited scalability
+-Limited scalability
 
 There is a need for a low-cost, safe, scalable, and physics-driven solution.
 
@@ -22,14 +22,14 @@ There is a need for a low-cost, safe, scalable, and physics-driven solution.
 Release controlled water mist / vapor clouds in orbit to create a temporary high-drag micro-environment.
 When orbital debris passes through this cloud:
 
-Collides with water molecules
+-Collides with water molecules
 
-Experiences increased drag
+-Experiences increased drag
 
-Slows down
+-Slows down
 
-Drops to lower orbit
+-Drops to lower orbit
 
-Eventually burns up in Earth’s atmosphere safely
+-Eventually burns up in Earth’s atmosphere safely
 
 This uses natural atmospheric mechanics with a lightweight, safe medium: water.
