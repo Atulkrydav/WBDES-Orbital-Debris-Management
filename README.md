@@ -33,3 +33,7 @@ When orbital debris passes through this cloud:
 -Eventually burns up in Earth’s atmosphere safely
 
 This uses natural atmospheric mechanics with a lightweight, safe medium: water.
+
+
+<img width="1043" height="1768" alt="image" src="https://github.com/user-attachments/assets/4be1532e-69d5-40db-9500-3f5136720365" />
+
