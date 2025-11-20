@@ -34,6 +34,7 @@ When orbital debris passes through this cloud:
 
 This uses natural atmospheric mechanics with a lightweight, safe medium: water.
 
+# Mechanism
 
 <img width="1043" height="1768" alt="image" src="https://github.com/user-attachments/assets/4be1532e-69d5-40db-9500-3f5136720365" />
 
